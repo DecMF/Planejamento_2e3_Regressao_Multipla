@@ -1,6 +1,6 @@
 # Planejamento Fatorial \(2^3\) e Modelagem por Regressão Linear Múltipla no Fresamento CNC
 
-## 📋 Descrição
+##  Descrição
 Este projeto explora a influência de três fatores principais do processo de fresamento CNC:
 - **Velocidade do eixo (Spindle speed)**
 - **Taxa de avanço (Feed rate)**
@@ -10,7 +10,7 @@ Utilizando um planejamento fatorial completo \(2^3\), o estudo busca compreender
 
 ---
 
-## 🧪 Metodologia
+##  Metodologia
 ### 1. **Planejamento Experimental**
 - Modelo fatorial completo \(2^3\) com 125 combinações experimentais.
 - Objetivo: Identificar efeitos significativos e otimizar os parâmetros do processo.
@@ -45,6 +45,6 @@ Utilizando um planejamento fatorial completo \(2^3\), o estudo busca compreender
 
 ---
 
-## 📚 Referências
+##  Referências
 - Sahoo, P., Barman, T.K. "ANN modelling of fractal dimension in machining." *Woodhead Publishing* (2012).
 - Montgomery, D.C. "Design and Analysis of Experiments." 2ª edição, Wiley (1984).
